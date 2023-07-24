@@ -1,0 +1,44 @@
+name: GTA22
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - affine
+  - descartes
+  - findspark
+  - fiona
+  - gdal
+  - geoalchemy2
+  - geojson
+  - geopandas
+  - geopy
+  - ipyleaflet
+  - jupyter
+  - matplotlib
+  - mapclassify
+  - networkx
+  - numpy
+  - osmnx
+  - pandas
+  - pillow
+  - pint
+  - psycopg2
+  - pyproj
+  - pytest
+  - pyrosm
+  - pygeos
+  - rasterio
+  - requests
+  - rtree
+  - scikit-learn
+  - scipy
+  - seaborn
+  - shapely
+  - spyder
+  - tqdm
+  - yaml
+  - flask
+  - pip
+  - pip: 
+    - trackintel
+    - smopy
