@@ -1,5 +1,5 @@
 # Bachelor-Arbeit
-Diese Order besteht aus zwei Dateien:
+Diese Ordner besteht aus zwei Dateien:
 - region_geojson.ipynb
 - graphen.ipynb
 
